@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-08T20:35:20.681967300Z</date>
+  <millis>1704746120681</millis>
+  <nanos>967300</nanos>
+  <sequence>0</sequence>
+  <logger>test.SimpleUnitTestFramework</logger>
+  <level>INFO</level>
+  <class>test.SimpleUnitTestFramework</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>[2024-01-09T02:05:20.680218300]   9.0 == 9.0</message>
+</record>
+<record>
+  <date>2024-01-08T20:35:20.734163300Z</date>
+  <millis>1704746120734</millis>
+  <nanos>163300</nanos>
+  <sequence>1</sequence>
+  <logger>test.SimpleUnitTestFramework</logger>
+  <level>INFO</level>
+  <class>test.SimpleUnitTestFramework</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>  9.0 == 9.0</message>
+</record>
+<record>
+  <date>2024-01-08T20:35:20.736155900Z</date>
+  <millis>1704746120736</millis>
+  <nanos>155900</nanos>
+  <sequence>2</sequence>
+  <logger>test.SimpleUnitTestFramework</logger>
+  <level>INFO</level>
+  <class>test.SimpleUnitTestFramework</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>[2024-01-09T02:05:20.736155900]   3.0 == 3.0</message>
+</record>
+<record>
+  <date>2024-01-08T20:35:20.738155Z</date>
+  <millis>1704746120738</millis>
+  <nanos>155000</nanos>
+  <sequence>3</sequence>
+  <logger>test.SimpleUnitTestFramework</logger>
+  <level>INFO</level>
+  <class>test.SimpleUnitTestFramework</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>  3.0 == 3.0</message>
+</record>
+<record>
+  <date>2024-01-08T20:35:20.740160100Z</date>
+  <millis>1704746120740</millis>
+  <nanos>160100</nanos>
+  <sequence>4</sequence>
+  <logger>test.SimpleUnitTestFramework</logger>
+  <level>INFO</level>
+  <class>test.SimpleUnitTestFramework</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>[2024-01-09T02:05:20.740160100]   4.0 == 4.0</message>
+</record>
+<record>
+  <date>2024-01-08T20:35:20.742160600Z</date>
+  <millis>1704746120742</millis>
+  <nanos>160600</nanos>
+  <sequence>5</sequence>
+  <logger>test.SimpleUnitTestFramework</logger>
+  <level>INFO</level>
+  <class>test.SimpleUnitTestFramework</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>  4.0 == 4.0</message>
+</record>
+<record>
+  <date>2024-01-08T20:35:20.744160900Z</date>
+  <millis>1704746120744</millis>
+  <nanos>160900</nanos>
+  <sequence>6</sequence>
+  <logger>test.SimpleUnitTestFramework</logger>
+  <level>INFO</level>
+  <class>test.SimpleUnitTestFramework</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>[2024-01-09T02:05:20.744160900]   4.0 != 3.0</message>
+</record>
+<record>
+  <date>2024-01-08T20:35:20.747164Z</date>
+  <millis>1704746120747</millis>
+  <nanos>164000</nanos>
+  <sequence>7</sequence>
+  <logger>test.SimpleUnitTestFramework</logger>
+  <level>INFO</level>
+  <class>test.SimpleUnitTestFramework</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>  4.0 != 3.0</message>
+</record>
+<record>
+  <date>2024-01-08T20:35:20.749163500Z</date>
+  <millis>1704746120749</millis>
+  <nanos>163500</nanos>
+  <sequence>8</sequence>
+  <logger>test.SimpleUnitTestFramework</logger>
+  <level>INFO</level>
+  <class>test.SimpleUnitTestFramework</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>[2024-01-09T02:05:20.749163500]   4.0 != 5.0</message>
+</record>
+<record>
+  <date>2024-01-08T20:35:20.751164300Z</date>
+  <millis>1704746120751</millis>
+  <nanos>164300</nanos>
+  <sequence>9</sequence>
+  <logger>test.SimpleUnitTestFramework</logger>
+  <level>INFO</level>
+  <class>test.SimpleUnitTestFramework</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>  4.0 != 5.0</message>
+</record>
+<record>
+  <date>2024-01-08T20:35:20.760777100Z</date>
+  <millis>1704746120760</millis>
+  <nanos>777100</nanos>
+  <sequence>10</sequence>
+  <logger>test.SimpleUnitTestFramework</logger>
+  <level>INFO</level>
+  <class>test.SimpleUnitTestFramework</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>[2024-01-09T02:05:20.760777100] * 5.0 == 4.0</message>
+</record>
+<record>
+  <date>2024-01-08T20:35:20.762715100Z</date>
+  <millis>1704746120762</millis>
+  <nanos>715100</nanos>
+  <sequence>11</sequence>
+  <logger>test.SimpleUnitTestFramework</logger>
+  <level>INFO</level>
+  <class>test.SimpleUnitTestFramework</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>* 5.0 == 4.0</message>
+</record>
+<record>
+  <date>2024-01-08T20:35:20.765719600Z</date>
+  <millis>1704746120765</millis>
+  <nanos>719600</nanos>
+  <sequence>12</sequence>
+  <logger>test.SimpleUnitTestFramework</logger>
+  <level>INFO</level>
+  <class>test.SimpleUnitTestFramework</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>[2024-01-09T02:05:20.765719600]   16.0 == 16.0</message>
+</record>
+<record>
+  <date>2024-01-08T20:35:20.767764500Z</date>
+  <millis>1704746120767</millis>
+  <nanos>764500</nanos>
+  <sequence>13</sequence>
+  <logger>test.SimpleUnitTestFramework</logger>
+  <level>INFO</level>
+  <class>test.SimpleUnitTestFramework</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>  16.0 == 16.0</message>
+</record>
+</log>
